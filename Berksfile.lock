@@ -1,0 +1,7 @@
+DEPENDENCIES
+  apache101
+    path: .
+    metadata: true
+
+GRAPH
+  apache101 (0.1.0)
