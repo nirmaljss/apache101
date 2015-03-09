@@ -1,0 +1,15 @@
+.vagrant
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.project
+.idea/
+*.bak
+*.DS_Store
+*.un~
+
+# Bundler
+bin/*
+.bundle/*
