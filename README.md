@@ -1,4 +1,4 @@
-apache101 cookbook
+apache101 cookbook [![Build Status](https://travis-ci.org/nirmaljss/apache101.svg)](https://travis-ci.org/nirmaljss/apache101/)
 ====================
 Configures and installs a simple and basic Apache server.
 
